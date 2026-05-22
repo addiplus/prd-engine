@@ -1,0 +1,21 @@
+{
+  "name": "prd-engine",
+  "version": "1.0.0",
+  "description": "Generate agent-executable Product Requirements Documents using parallel research agents, structured synthesis, quality scoring, and adversarial review. Ships as a Claude Code plugin with 10 specialized agents plus a primary SKILL.md.",
+  "author": {
+    "name": "Joe Smith",
+    "url": "https://github.com/addiplus"
+  },
+  "repository": "https://github.com/addiplus/prd-engine",
+  "license": "MIT",
+  "keywords": [
+    "prd",
+    "requirements",
+    "agents",
+    "claude-code",
+    "plugin",
+    "adversarial-review",
+    "specification",
+    "multi-agent"
+  ]
+}

@@ -1,0 +1,17 @@
+# Runtime outputs
+.prd-engine/
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Node (if examples are added later)
+node_modules/
